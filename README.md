@@ -1,4 +1,3 @@
-
 # EndemikDB
 
 Aplikasi Android yang menampilkan informasi hewan dan tumbuhan endemik Indonesia.
@@ -25,13 +24,13 @@ Aplikasi Android yang menampilkan informasi hewan dan tumbuhan endemik Indonesia
 
 ## Screenshot
 ### Onboarding
-![Home](screenshots/onboarding.jpeg)
+![Onboarding](screenshots/onboarding.jpeg)
 
 ### Hewan
-![Home](screenshots/hewan.jpeg)
+![Hewan](screenshots/hewan.jpeg)
 
 ### Tumbuhan
-![Home](screenshots/tumbuhan.jpeg)
+![Tumbuhan](screenshots/tumbuhan.jpeg)
 
 ### Detail
 ![Detail](screenshots/detail.jpeg)
