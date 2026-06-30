@@ -26,22 +26,22 @@ Aplikasi Android yang menampilkan informasi hewan dan tumbuhan endemik Indonesia
 
 ## Screenshot
 ### Onboarding
-![Home](screenshots/onboarding.png)
+![Home](screenshots/onboarding.jpeg)
 
 ### Hewan
-![Home](screenshots/hewan.png)
+![Home](screenshots/hewan.jpeg)
 
 ### Tumbuhan
-![Home](screenshots/tumbuhan.png)
+![Home](screenshots/tumbuhan.jpeg)
 
 ### Detail
-![Detail](screenshots/detail.png)
+![Detail](screenshots/detail.jpeg)
 
 ### Favorite
-![Favorite](screenshots/favorite.png)
+![Favorite](screenshots/favorite.jpeg)
 
 ### Profile
-![Profile](screenshots/profile.png)
+![Profile](screenshots/profile.jpeg)
 
 ## Author
 Anandhia Keisha Elvyrafebrien
